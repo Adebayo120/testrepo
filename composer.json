@@ -12,7 +12,7 @@
     "homepage": "https://github.com/adebayo/seamless",
     "keywords": ["Laravel", "Seamless"],
     "require": {
-        "illuminate/support": "~9"
+        "illuminate/support": "~5"
     },
     "require-dev": {
         "phpunit/phpunit": "~9.0",
